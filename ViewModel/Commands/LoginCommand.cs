@@ -21,7 +21,7 @@ namespace NotesApp.ViewModel.Commands
 
         public bool CanExecute(object parameter)
         {
-            var user = parameter as User;
+            var user = parameter as Users;
 
             //return (user == null || string.IsNullOrEmpty(user.UserName) || string.IsNullOrEmpty(user.Password));
 

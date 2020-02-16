@@ -34,3 +34,7 @@ D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\Microsoft.Expression.I
 D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\System.Windows.Interactivity.dll
 D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\Microsoft.Expression.Interactions.xml
 D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\System.Windows.Interactivity.xml
+D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\Newtonsoft.Json.dll
+D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+D:\Csharp\WPF\WPF_Masterclass_projects\NotesApp\bin\Debug\Newtonsoft.Json.xml

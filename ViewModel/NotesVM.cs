@@ -79,7 +79,7 @@ namespace NotesApp.ViewModel
 			ReadNotes();
 		}
 
-		public void CreateNote(int notebookId)
+		public void CreateNote(string notebookId)
 		{
 			Note newNote = new Note()
 			{
@@ -101,7 +101,7 @@ namespace NotesApp.ViewModel
 			Notebook newNotebook = new Notebook()
 			{
 				Name = "New notebook",
-				UserId = int.Parse(App.UserId)
+				UserId = App.UserId
 			};
 
 			DatabaseHelper.Insert(newNotebook);

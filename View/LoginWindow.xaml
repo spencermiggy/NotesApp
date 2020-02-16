@@ -16,7 +16,7 @@
             Margin="20 0"
                     VerticalAlignment="Center"
                     Visibility="Visible">
-            <TextBlock Text="Name:"/>
+            <TextBlock Text="User Name:"/>
             <TextBox Text="{Binding User.UserName, Mode=TwoWay}"/>
             <TextBlock Text="Password:"/>
             <TextBox Text="{Binding User.Password, Mode=TwoWay}"/>
@@ -34,13 +34,18 @@
             Margin="20 0"
                     VerticalAlignment="Center"
                     Visibility="Collapsed">
+            <TextBlock Text="User Name:"/>
             <TextBox Text="{Binding User.UserName, Mode=TwoWay}"/>
+            <TextBlock Text="Password:"/>
             <TextBox Text="{Binding User.Password, Mode=TwoWay}"
                      Margin="0 5 0 0"/>
+            <TextBlock Text="Email:"/>
             <TextBox Text="{Binding User.Email, Mode=TwoWay}"
                      Margin="0 5 0 0"/>
+            <TextBlock Text="Name:"/>
             <TextBox Text="{Binding User.Name, Mode=TwoWay}"
                      Margin="0 5 0 0"/>
+            <TextBlock Text="Last Name:"/>
             <TextBox Text="{Binding User.LastName, Mode=TwoWay}"
                      Margin="0 5 0 0"/>
             <Button Margin="0 5 0 0"
